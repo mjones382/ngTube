@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "userid": "user1",
+      "password": "pass1",
+      "id": 2
+    },
+    {
+      "userid": "user2",
+      "password": "pass2",
+      "id": 3
+    },
+    {
+      "userid": "user3",
+      "password": "pass3",
+      "id": 4
+    }
+  ],
+  "videos": [],
+  "comments": []
+}
